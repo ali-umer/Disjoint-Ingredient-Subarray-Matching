@@ -1,4 +1,4 @@
-# Disjoint Ingridient Subarray Matching(Design and Analysis of Algorithms Course Project)
+# Disjoint Ingredient Subarray Matching(Design and Analysis of Algorithms Course Project)
 
 The objective of this problem was to determine whether all dishes can be prepared using available ingredients by finding disjoint subarrays that match each dish’s required ingredients (regardless of order).
 Moreover this was an Algorithms course so had to implement a solution with least time and space complexity. Following is the analysis of time and space complexity of my implemented solution:
