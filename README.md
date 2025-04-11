@@ -17,6 +17,7 @@ The time complexity of mymain function is also O (m) because it uses for loop to
 matching function.
 Finally, the analysis of time complexity of string-matching function.
 The time complexity of my string-matching function is O (n * m).
+<p style="text-align: justify;">
 It is because I have used the naïve-string matching algorithm which has a time complexity of
 O (n * m). After this algorithm, my code uses quicksort algorithm with a time complexity of
 O (m * log m), after that a single for loop is used to check if the elements found in the nums array
@@ -28,6 +29,7 @@ complexity of O (n * m), hence, the string-matching function has a time complexi
 In last, dividing my complete program in 2 parts i.e., one part consists of file handling which has a
 time complexity of O (x * y * z), and the second part which comprises of the all-other parts having a
 combined time complexity of O (a * b * n * m)
+</p>
 where,
 a = number of test cases given
 b = number of groups
