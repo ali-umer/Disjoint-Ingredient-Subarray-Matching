@@ -1,0 +1,15 @@
+groups = {{'avocado', 'tomato', 'onion', 'lime'},
+{'black beans', 'rice', 'corn', 'cilantro'},
+{'tortilla chips', 'cheese', 'jalapeno', 'salsa'},
+{'sour cream', 'chicken', 'bell pepper', 'onion'},
+{'flour', 'butter', 'sugar', 'eggs', 'vanilla'},
+{'cinnamon', 'nutmeg', 'sugar', 'eggs', 'milk', 'vanilla'},
+{'spinach', 'feta', 'olive oil', 'garlic'},
+{'banana', 'oats', 'honey', 'milk'},
+{'beef', 'onion', 'garlic', 'carrot', 'potato'}}
+
+Test case 7:
+nums = ['onion', 'avocado', 'lime', 'tomato', 'rice', 'corn', 'black beans', 'cilantro', 'salsa', 'jalapeno', 'cheese', 'tortilla chips', 'salsa', 'sour cream', 'onion', 'bell pepper', 'chicken', 'flour', 'sugar', 'eggs', 'butter', 'vanilla', 'banana', 'oats', 'honey', 'milk', 'beef', 'onion', 'garlic', 'carrot', 'corn']
+
+Test case 8:
+Nums = ['avocado', 'tomato', 'lime', 'onion', 'sour cream', 'chicken', 'bell pepper', 'black beans', 'rice', 'corn', 'cilantro', 'tortilla chips', 'cheese', 'jalapeno', 'salsa', 'flour', 'butter', 'sugar', 'eggs', 'vanilla', 'cinnamon', 'nutmeg', 'sugar', 'eggs', 'milk', 'vanilla', 'spinach', 'feta', 'olive oil', 'garlic', 'banana', 'oats', 'honey', 'milk', 'beef', 'onion', 'garlic', 'carrot', 'potato', 'tomato']

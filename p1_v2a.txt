@@ -1,0 +1,9 @@
+groups = {{'avocado', 'tomato', 'onion', 'lime'},
+{'black beans', 'rice', 'corn', 'cilantro'},
+{'tortilla chips', 'cheese', 'jalapeno', 'salsa'},
+{'sour cream', 'chicken', 'bell pepper', 'onion'},
+{'flour', 'butter', 'sugar', 'eggs', 'vanilla'}}
+
+Test case 5:
+nums = ['avocado', 'tomato', 'onion', 'lime', 'd', 'tomato', 'onion', 'lime', 'black beans', 'rice', 'corn', 'cilantro', 'black beans', 'a',  'tortilla chips', 'jalapeno', 'cheese',  'salsa', 'black beans', 'chicken', 'bell pepper', 'sour cream' , 'onion', 'sugar', 'butter', 'flour', 'sugar', 'vanilla', 'eggs', 'extra']
+

@@ -1,0 +1,10 @@
+groups = {{'broccoli', 'cauliflower', 'carrot', 'garlic'},
+{'potato', 'cheese', 'milk', 'butter'},
+{'chicken', 'rosemary', 'lemon', 'olive oil'},
+{'flour', 'sugar', 'cocoa', 'butter', 'baking powder', 'eggs'},
+{'cream', 'vanilla', 'sugar', 'egg yolks'}}
+
+Test case 6:
+nums = ['broccoli', 'cauliflower', 'carrot', 'garlic',   'potato', 'cheese', 'milk', 'butter',  'flour', 'sugar', 'cocoa', 'baking powder', 'eggs', 'chicken', 'rosemary', 'lemon', 'cream', 'vanilla', 'sugar', 'egg yolks']
+
+
